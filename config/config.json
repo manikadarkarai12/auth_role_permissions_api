@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Root@123",
+    "database": "auth_role_permissions",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "auth_role_permissions_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "auth_role_permissions_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

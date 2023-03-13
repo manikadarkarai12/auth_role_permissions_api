@@ -1,0 +1,44 @@
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_add', 'Add User', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_update', 'Update User', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_get', 'Get User', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_get_all', 'Get All User', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_delete', 'Delete User', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_add', 'Add Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_update', 'Update Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_get', 'Get Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_get_all', 'Get All Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_delete', 'Delete Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('permissions_add', 'Add Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('permissions_update', 'Update Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('permissions_get', 'Get Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('permissions_get_all', 'Get All Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('permissions_delete', 'Delete Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_add', 'Add Group', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_update', 'Update Group', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_get', 'Get Group', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('Group_get_all', 'Get All Group', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('Group_delete', 'Delete Group', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_role_create', 'Add User Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_role_update', 'Update User Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_role_get', 'Get User Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_role_get_all', 'Get All User Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_role_delete', 'Delete User Role', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_permission_create', 'Add Role Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_permission_update', 'Update Role Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_permission_get', 'Get Role Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_permission_get_all', 'Get All Role Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('role_permission_delete', 'Delete Role Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_permission_create', 'Add Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_permission_update', 'Update Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_permission_get', 'Get Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_permission_get_all', 'Get All Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_permission_delete', 'Delete Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_user_create', 'Add Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_user_update', 'Update Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_user_get', 'Get Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_user_get_all', 'Get All Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('group_user_delete', 'Delete Group Permission', now(), now());
+INSERT INTO Permissions(perm_name, perm_description, createdAt, updatedAt) VALUES('user_export_permission', 'Export User Permission', now(), now());
+
+
+
